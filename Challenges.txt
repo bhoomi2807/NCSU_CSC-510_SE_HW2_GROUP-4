@@ -9,3 +9,5 @@ d. Does not integrate well with other languages
 2. Ruby
 
 a. Slow processing as compared to other languages.
+b. Hard to find good documentation.
+c. Not scalable.
