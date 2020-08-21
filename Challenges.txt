@@ -1,9 +1,9 @@
 1. Julia
 
-a. Not object oriented
-b. Mainly built for numerical computaion
-c. Add on features are not maintained well
-d. Does not integrate well with other languages
+a. Not object oriented.
+b. Mainly built for numerical computaion.
+c. Add on features are not maintained well.
+d. Does not integrate well with other languages.
 
 
 2. Ruby
