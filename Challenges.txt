@@ -3,4 +3,9 @@
 a. Not object oriented
 b. Mainly built for numerical computaion
 c. Add on features are not maintained well
-d. Does not integreate well with other languages
+d. Does not integrate well with other languages
+
+
+2. Ruby
+
+a. Slow processing as compared to other languages.
