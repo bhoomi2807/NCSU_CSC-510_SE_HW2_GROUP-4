@@ -12,3 +12,10 @@ a. Slow processing as compared to other languages.
 b. Hard to find good documentation.
 c. Not scalable.
 d. Upgrades get released after ages making it outdated quite often.
+
+3. Scala
+
+a. Limited developer pool.
+b. Hard to understand due to hybrid nature of being object-oriented and functional.
+c. Limited backward compatibility.
+d. Poor IDE support.
