@@ -11,3 +11,4 @@ d. Does not integrate well with other languages
 a. Slow processing as compared to other languages.
 b. Hard to find good documentation.
 c. Not scalable.
+d. Upgrades get released after ages making it outdated quite often.
