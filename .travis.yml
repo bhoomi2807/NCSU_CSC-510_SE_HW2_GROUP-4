@@ -1,16 +1,20 @@
-language: julia
-julia:
-  - nightly
-  - 1.0.5
-  - 1.3.1
-language: scala
-scala:
-  - 2.9.3
-  - 2.10.6
-  - 2.11.11
-  - 2.12.2
-language: ruby
-rvm:
-  - 2.6
-  - jruby
-  - truffleruby
+matrix:
+  include:
+    - language: julia
+      julia:
+        - nightly
+        - 1.0.5
+        - 1.3.1
+        
+    - language: scala
+      scala:
+        - 2.9.3
+        - 2.10.6
+        - 2.11.11
+        - 2.12.2
+        
+    - language: ruby
+      rvm:
+        - 2.6
+        - jruby
+        - truffleruby
