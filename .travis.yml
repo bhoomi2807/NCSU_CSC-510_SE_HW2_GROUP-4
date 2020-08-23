@@ -9,6 +9,15 @@ matrix:
       scala:
         - 2.9.3
         
+      jdk:
+        - oraclejdk8
+        - openjdk7
+        - openjdk6
+        
+      script:
+        - cd build-sbt
+        - sbt ++$TRAVIS_SCALA_VERSION test
+        
     - language: ruby
       rvm:
         - 2.6
