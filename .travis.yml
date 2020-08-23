@@ -11,7 +11,7 @@ matrix:
         
     - language: scala
       scala:
-        - 2.9.3
+        - 2.12.2
         
       jdk:
         - openjdk8
