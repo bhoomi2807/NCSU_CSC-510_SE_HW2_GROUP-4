@@ -5,6 +5,10 @@ matrix:
         - 1.0.5
         - nightly
         
+      script:
+        - cd Julia
+        - julia --project=docs/ -e 'using Pkg; Pkg.instantiate(); Pkg.develop(PackageSpec(path=pwd()))'
+        
     - language: scala
       scala:
         - 2.9.3
