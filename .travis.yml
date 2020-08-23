@@ -18,6 +18,7 @@ matrix:
         
       script:
         - cd Scala
+        - sbt ++$TRAVIS_SCALA_VERSION compile
         - sbt ++$TRAVIS_SCALA_VERSION test
         
     - language: ruby
