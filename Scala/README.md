@@ -6,6 +6,9 @@ To install Scala locally:
 3. [Installation for Ubuntu](https://www.codersbistro.com/blog/installing-scala-ubuntu/).
 
 To run the code on an online compiler:
-1. Go to [Repl](https://repl.it/languages/scala).
+1. Go to [tio](https://tio.run/#).
 2. Copy and paste the code.
-3. Click "Run".
+3. Add command line arguments
+  (3.1) First argument is for dimension of matrix
+  (3.2) Second arguemt is for the number of generations you want to run the code for
+4. Click "Run" symbol on the top of webpage.
