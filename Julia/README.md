@@ -21,3 +21,11 @@ To run the code on an online compiler:
 ```julia
 println("What are you printing", variable_name)
 ```
+2. To access single element of the grid:
+```julia
+grid[row, col]
+```
+3. To write comments:
+```julia
+"This is a comment"
+```
