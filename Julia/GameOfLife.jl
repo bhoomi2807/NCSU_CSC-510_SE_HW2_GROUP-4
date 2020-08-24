@@ -26,7 +26,7 @@ end
 
 "Function to get the number of neighbors of a cell."
 function getNeighborCount(grid, grid_size, row, col)
-  c = count(grid[getMin(row):getMax(grid_size, row), getMin(col):getMax(grid_size, col)])
+  count(grid[getMin(row):getMax(grid_size, row), getMin(col):getMax(grid_size, col)])
 end
 
 "Function to check if a cell will be alive in the net state or not."
