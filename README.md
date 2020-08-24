@@ -8,6 +8,9 @@ This repository is part of CSC 510 Software Engineering HW2 and HW3. It contains
 - [Ruby](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby) contains the code for Game of Life written in Ruby.
 - [Scala](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala) contains the code for Game of Life written in Scala.
 
+[SCIRPT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/Script.md) has the instructions to conduct the experiment.<br>
+[RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) has the observations and conclusion (For HW3).
+
 ## Execution Instructions
 1. Online Compiler:<br>
 Copy and paste the code in online compilers like [Repl](https://repl.it/), [JDoodle](https://www.jdoodle.com/), [OnlineGDB](https://www.onlinegdb.com/), etc.
