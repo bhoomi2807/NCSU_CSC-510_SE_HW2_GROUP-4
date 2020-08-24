@@ -6,6 +6,16 @@ To install Ruby locally:
 3. [Installation for Ubuntu](https://stackify.com/install-ruby-on-ubuntu-everything-you-need-to-get-going/).
 
 To run the code on an online compiler:
-1. Go to [Repl](https://repl.it/languages/ruby).
+1. Go to [Online Compiler](https://www.onlinegdb.com/online_ruby_compiler).
 2. Copy and paste the code.
 3. Click "Run".
+
+
+## Debugging Information
+
+1. Print any debugging statement using:
+```ruby
+puts "Hello World!"
+```
+
+Find more such tools [here](https://www.rubyguides.com/2015/07/ruby-debugging/)
