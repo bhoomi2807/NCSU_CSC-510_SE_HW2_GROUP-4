@@ -14,3 +14,10 @@ To run the code on an online compiler:
   * Number of alive cells
   * Generation
 5. Click "Run".
+
+## Debugging Information
+
+1. Print any debugging statement using:
+```julia
+println("What are you printing", variable_name)
+```
