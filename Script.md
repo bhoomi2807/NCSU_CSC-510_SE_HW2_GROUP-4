@@ -12,7 +12,7 @@
 
 
 # Observations
-Observations will be noted down in [excel sheet](https://docs.google.com/spreadsheets/d/1XVk4bel4FRgaBLAVkANSc_PNqDgqohV34YU27R-FB1M/edit#gid=0)
+Observations will be noted down in [excel sheet](https://docs.google.com/spreadsheets/d/1fmophr7ZWwKzFXMY_xyvx6oCCCnScVFJ171acl1WIds/edit#gid=0)
 ## Things to note down:
   - Bug found?
   - Bug resolved?
