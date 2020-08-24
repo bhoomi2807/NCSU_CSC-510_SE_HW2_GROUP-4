@@ -1,17 +1,32 @@
+"Function to create board by randomly choosing alive cells."
 function createBoard(size, num_alive_cells)
   grid = falses(size, size)
   foreach(i -> grid[i] = true, rand(1 : size * size, num_alive_cells))
   grid
 end
 
-"Calculate the number of neighbors of a cell."
-function getNeighborCount(grid, row, col)
-  (grid_size, _) = size(grid)
+"Function to get the minimum row or column number while counting neighbours."
+function getMin(x)
+  if x > 1
+    x - 1
+  else
+    1
+  end
+end
 
-  getmin(x) = x > 1 ? x - 1 : 1
-  getmax(x) = x < grid_size ? x + 1 : grid_size
+"Function to get the maximum row or column number while counting neighbours."
+function getMax(grid_size, x)
+  if x < grid_size
+    x + 1
+  else
+    grid_size
+  end
+end
 
-  c = count(grid[getmin(row):getmax(row), getmin(col):getmax(col)])
+
+"Function to get the number of neighbors of a cell."
+function getNeighborCount(grid, grid_size, row, col)
+  c = count(grid[getMin(row):getMax(grid_size, row), getMin(col):getMax(grid_size, col)])
   if grid[row, col]
     c - 1
   else
@@ -19,28 +34,36 @@ function getNeighborCount(grid, row, col)
   end
 end
 
-"Return a boolean value indicating if given cell will be alive."
-function isAlive(grid, row, col)
-  nc = getNeighborCount(grid, row, col)
+"Function to check if a cell will be alive in the net state or not."
+function isAlive(grid, grid_size ,row, col)
+  nc = getNeighborCount(grid, grid_size, row, col)
 
-  nc == 3 || (grid[row, col] && (nc == 2 || nc == 3))
+  if nc == 3 || (grid[row, col] && (nc == 2 || nc == 3))
+    return true
+  else
+    return false
+  end
 end
 
+"Driver function to get the next state of the grid"
 function getNextState(grid)
   (grid_size, _) = size(grid)
-  [isAlive(grid, row, col) for row in 1 : grid_size, col in 1 : grid_size]
+  [isAlive(grid, grid_size, row, col) for row in 1 : grid_size, col in 1 : grid_size]
 end
 
-
+"Main function"
 function main()
-  length(ARGS) < 2 && error("No enough arguments!")
+  "Argument handling"
+  length(ARGS) < 3 && error("No enough arguments!")
   grid_size = parse(Int, ARGS[1])
   num_alive_cells = parse(Int, ARGS[2])
-  println(grid_size)
-  println(num_alive_cells)
-  generation = 1
-  
+  generation = parse(Int, ARGS[3])
+  println("Grid Size: ", grid_size)
+  println("Number of cells alive: ", num_alive_cells)
+  println("Number of generations: ", generation)
+  println(" ")
 
+  "Board creation"
   grid = createBoard(grid_size, num_alive_cells)
   for row in 1 : grid_size, col in 1 : grid_size
     print(grid[row, col] ? "1 " : "0 ")
@@ -48,13 +71,16 @@ function main()
       println("")
     end
   end
+
+  "Get final state of grid"
   gen = 0
   while gen < generation
     grid = getNextState(grid)
     gen += 1
   end
   
-  print("After all generations")
+  println(" ")
+  println("After all generations-")
   println(" ")
   for row in 1 : grid_size, col in 1 : grid_size
     print(grid[row, col] ? "1 " : "0 ")
