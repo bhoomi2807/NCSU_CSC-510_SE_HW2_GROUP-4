@@ -1,5 +1,6 @@
 //This is Scala file
-object MyClass {
+object GameOfLife {
+  
   def gameOfLife(board: Array[Array[Int]], gen: Int): Unit = {
     var neighbors = Array.ofDim[Int](8, 2)
     //x and y directions to explore neighbors
@@ -57,7 +58,6 @@ object MyClass {
     var dim = args(0).toInt;
     var gen = args(1).toInt;
 
-    //var board = Array(Array(0,1,0),Array(0,0,1),Array(1,1,1),Array(0,0,0));
     var board = Array.ofDim[Int](dim, dim);
     for (row <- 0 until dim) {
       board(row) = Array.fill(dim) { scala.util.Random.nextInt(2) };
