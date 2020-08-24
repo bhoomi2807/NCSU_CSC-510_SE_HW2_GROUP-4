@@ -6,6 +6,11 @@ To install Julia locally:
 3. [Installation for Ubuntu](https://ferrolho.github.io/blog/2019-01-26/how-to-install-julia-on-ubuntu).
 
 To run the code on an online compiler:
-1. Go to [Repl](https://repl.it/languages/julia).
-2. Copy and paste the code.
-3. Click "Run".
+1. Go to [Tio](https://tio.run/#).
+2. Select language 'Julia 1.0'
+3. Copy and paste the code.
+4. Add 2 arguments: 
+      a. Grid size
+      b. Number of alive cells
+      c. Generation
+5. Click "Run".
