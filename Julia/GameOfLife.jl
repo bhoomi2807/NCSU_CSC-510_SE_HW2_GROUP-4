@@ -33,8 +33,11 @@ end
 
 
 function main()
-  grid_size = 10
-  num_alive_cells = 25
+  length(ARGS) < 2 && error("No enough arguments!")
+  grid_size = parse(Int, ARGS[1])
+  num_alive_cells = parse(Int, ARGS[2])
+  println(grid_size)
+  println(num_alive_cells)
   generation = 1
   
 
