@@ -8,7 +8,7 @@ To install Scala locally:
 To run the code on an online compiler:
 1. Go to [tio](https://tio.run/#).
 2. Copy and paste the code.
-3. Add command line arguments
-  (3.1) First argument is for dimension of matrix
-  (3.2) Second arguemt is for the number of generations you want to run the code for
+3. Add command line arguments<br /> 
+  (3.1) First argument is for dimension of matrix<br /> 
+  (3.2) Second arguemt is for the number of generations you want to run the code for<br /> 
 4. Click "Run" symbol on the top of webpage.
