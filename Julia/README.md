@@ -10,7 +10,7 @@ To run the code on an online compiler:
 2. Select language 'Julia 1.0'
 3. Copy and paste the code.
 4. Add 3 arguments: 
-  a. Grid size
-  b. Number of alive cells
-  c. Generation
+  * Grid size
+  * Number of alive cells
+  * Generation
 5. Click "Run".
