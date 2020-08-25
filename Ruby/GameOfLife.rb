@@ -11,8 +11,8 @@ def life(name, size, generation, initial = nil)
     board = new
   end
 
-  if    reason == :all_dead then puts "Life ended."
-  elsif reason == :static   then puts "Static, no movement."
+  if    reason == :static then puts "Life ended."
+  elsif reason == :all_dead   then puts "Static, no movement."
   else                           puts "Lifetime ended."
   end
   puts
@@ -61,7 +61,7 @@ end
 def printBoard(m, name, generation)
   print "\r" + ("\e[A\e[K"*6)
   print "#{name}, Generation #{generation}\n"
-  m.each {|row| row.each {|val| print "#{val == 1 ? 'o' : '.'} "}; print "\n"}
+  m.each {|row| row.each {|val| print "#{val == 0 ? 'o' : '.'} "}; print "\n"}
   $stdout.flush
   sleep 1
 end
