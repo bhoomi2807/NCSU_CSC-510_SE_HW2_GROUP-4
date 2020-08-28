@@ -11,5 +11,5 @@
 2. Execute the code as per instructions given in [README.md file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala/README.md)
 
 ### Step 4: Results
-Kindly fill out the [google form] (https://docs.google.com/forms/d/e/1FAIpQLSfCIb2_10jtCBNQ1B6hi06qwEmSeLBpQZUh2oMwZ9eN3ZlL2w/viewform?usp=sf_link) based on your experience of this experiment!
+Kindly fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfCIb2_10jtCBNQ1B6hi06qwEmSeLBpQZUh2oMwZ9eN3ZlL2w/viewform?usp=sf_link) based on your experience of this experiment!
 
