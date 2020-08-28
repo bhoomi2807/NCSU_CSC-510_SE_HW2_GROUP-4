@@ -1,4 +1,4 @@
-1. Julia
+## Julia
 
 a. Not object oriented.
 b. Mainly built for numerical computaion.
@@ -6,14 +6,14 @@ c. Add on features are not maintained well.
 d. Does not integrate well with other languages.
 
 
-2. Ruby
+## Ruby
 
 a. Slow processing as compared to other languages.
 b. Hard to find good documentation.
 c. Not scalable.
 d. Upgrades get released after ages making it outdated quite often.
 
-3. Scala
+## Scala
 
 a. Limited developer pool.
 b. Hard to understand due to hybrid nature of being object-oriented and functional.
