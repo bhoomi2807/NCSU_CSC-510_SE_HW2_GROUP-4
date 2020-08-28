@@ -12,7 +12,10 @@ This repository is part of CSC 510 Software Engineering HW2 and HW3. It contains
 [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) has the observations and conclusion (For HW3).
 
 ## Game of Life
-A cell is represented by 1 (alive) or 0 (dead).
+The game consists of a grid where in each cell value represents if the cell is alive or dead.
+1 -> Alive
+0 -> Dead
+
 The game has 3 tunable parameters:
   - Grid size
   - Number of cells alive
