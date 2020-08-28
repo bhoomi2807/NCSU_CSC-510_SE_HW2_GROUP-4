@@ -12,7 +12,7 @@
 
 
 ## Observations
-Observations will be noted down in [Excel sheet](https://docs.google.com/spreadsheets/d/1fmophr7ZWwKzFXMY_xyvx6oCCCnScVFJ171acl1WIds/edit#gid=0) as well as [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md).
+Observations will be noted down in [Excel sheet](https://docs.google.com/spreadsheets/d/1fmophr7ZWwKzFXMY_xyvx6oCCCnScVFJ171acl1WIds/edit#gid=0) as well as [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) and also using a google form.
 
 ## Things to note down:
   - Bug found?
