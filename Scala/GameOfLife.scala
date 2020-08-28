@@ -2,7 +2,6 @@
 object GameOfLife {
   
   def gameOfLife(board: Array[Array[Int]], gen: Int): Unit = {
-    var neighbors = Array.ofDim[Int](8, 2)
     //x and y directions to explore neighbors
     var x_n = Array(1, 1, 0, -1, -1, -1, 0, 0)
     var y_n = Array(0, -1, -1, -1, 0, 1, 1, 0)
