@@ -33,11 +33,12 @@ The output will be the grid after guven number of generations based on following
      0   0,1,2,4,5,6,7,8 ->  0  // Barren
 
 ## Execution Instructions
-1. Online Compiler:<br>
-Copy and paste the code in online compilers like [Repl](https://repl.it/), [JDoodle](https://www.jdoodle.com/), [OnlineGDB](https://www.onlinegdb.com/), etc.
+1. Our execution will ensure that each member will spend 10 minutes on each language.
+2. All the codes will be debugged using online compiler.
+3. [Julia](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Julia)
+4. [Ruby](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby) 
+5. [Scala](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala) 
 
-2. Local Execution:<br>
-Go to a specific language's README page to find detailed instructions.
 
 ## Group 4 Details:
 1. [Alisha Shahane](mailto:asshahan@ncsu.edu) (asshahan)<br>
