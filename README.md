@@ -37,8 +37,24 @@ The output will be the grid after guven number of generations based on following
 2. All the codes will be debugged using online compiler.
 3. Go to [Script](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Script.md) to begin the experiment!
 
+## Observations
+Manual bservations will be noted down in Excel Sheet and participants wold also fill a Google Form.
+Analysis of data collected can be found in [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md)
 
-## Group 4 Details:
+
+### Things to note down:
+  - Bug found?
+  - Bug resolved?
+  - Time taken for above actions
+  - Issues faced if any while downloading/compiling code
+  
+### Questions to ask:
+  - Familiarity with language before today.
+  - Familiarity with language after spending 10min.
+  - Review for the code written. (easily understandable/could be better/not understandable)
+  - Review for coding language. (very easy/moderate/hard to code)
+
+### Group 4 Details:
 1. [Alisha Shahane](mailto:asshahan@ncsu.edu) (asshahan)<br>
 2. [Shruti Kangle](mailto:sskangle@ncsu.edu) (sskangle)<br>
 3. [Bhoomi Shah](mailto:bshah2@ncsu.edu) (bshah2)<br>
