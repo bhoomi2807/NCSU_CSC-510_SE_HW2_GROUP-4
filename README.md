@@ -35,9 +35,7 @@ The output will be the grid after guven number of generations based on following
 ## Execution Instructions
 1. Our execution will ensure that each member will spend 10 minutes on each language.
 2. All the codes will be debugged using online compiler.
-3. [Julia](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Julia)
-4. [Ruby](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby) 
-5. [Scala](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala) 
+3. Go to [Script](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Script.md) to beign the experiment!
 
 
 ## Group 4 Details:
