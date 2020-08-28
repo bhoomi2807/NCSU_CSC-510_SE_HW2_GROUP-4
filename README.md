@@ -4,12 +4,11 @@
 
 This repository is part of CSC 510 Software Engineering HW2 and HW3. It contains the [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation in Julia, Ruby and Scala.
 
+For quick navigation, use the following links,
 - [Julia](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Julia) contains the code for Game of Life written in Julia.
 - [Ruby](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby) contains the code for Game of Life written in Ruby.
 - [Scala](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala) contains the code for Game of Life written in Scala.
 
-[SCIRPT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/Script.md) has the instructions to conduct the experiment.<br>
-[RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) has the observations and conclusion (For HW3).
 
 ## Game of Life
 The game consists of a grid where in each cell value represents if the cell is alive or dead.
