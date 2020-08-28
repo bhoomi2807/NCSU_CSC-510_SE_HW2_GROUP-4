@@ -58,10 +58,10 @@ def emptyOrNot(board, size)
 end
 
 def printBoard(m, name, generation)
-  print "\r" + ("\e[A\e[K"*6)
+  #print "\r" + ("\e[A\e[K"*6)
   print "#{name}, Generation #{generation}\n"
   m.each {|row| row.each {|val| print "#{val == 0 ? '.' : 'o'} "}; print "\n"}
-  $stdout.flush
+  #$stdout.flush
   sleep 1
 end
 
