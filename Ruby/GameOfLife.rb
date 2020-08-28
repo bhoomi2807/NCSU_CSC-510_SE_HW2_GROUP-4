@@ -5,8 +5,8 @@ def life(name, size, generation, initial = nil)
   reason = generation.times do |g|
     new = nextGeneration board, size
     printBoard new, name, g+1
-    break :static if emptyOrNot new, size
-    break :all_dead if board == new
+    break :all_dead if emptyOrNot new, size
+    break :static if board == new
     board = new
   end
 
