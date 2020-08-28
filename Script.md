@@ -1,27 +1,15 @@
-## Julia Code
+### Step 1: Julia Code
 1. Go to the [code file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Julia/GameOfLife.jl)
 2. Execute the code as per instructions given in [README.md file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Julia/README.md)
 
-## Ruby Code
+### Step 2: Ruby Code
 1. Go to the [code file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby/GameOfLife.rb)
 2. Execute the code as per instructions given in [README.md file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Ruby/README.md)
 
-## Scala Code
+### Step 3: Scala Code
 1. Go to the [code file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala/GameOfLife.scala)
 2. Execute the code as per instructions given in [README.md file](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/tree/master/Scala/README.md)
 
+### Step 4: Results
+Kindly fill out the [google form] (https://docs.google.com/forms/d/e/1FAIpQLSfCIb2_10jtCBNQ1B6hi06qwEmSeLBpQZUh2oMwZ9eN3ZlL2w/viewform?usp=sf_link) based on your experience of this experiment!
 
-## Observations
-Observations will be noted down in [Excel sheet](https://docs.google.com/spreadsheets/d/1fmophr7ZWwKzFXMY_xyvx6oCCCnScVFJ171acl1WIds/edit#gid=0) as well as [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) and also using a google form.
-
-## Things to note down:
-  - Bug found?
-  - Bug resolved?
-  - Time taken for above actions
-  - Issues faced if any while downloading/compiling code
-  
-## Questions to ask:
-  - Familiarity with language before today.
-  - Familiarity with language after spending 10min.
-  - Review for the code written. (easily understandable/could be better/not understandable)
-  - Review for coding language. (very easy/moderate/hard to code)
