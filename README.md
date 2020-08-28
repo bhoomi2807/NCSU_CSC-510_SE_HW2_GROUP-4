@@ -22,7 +22,7 @@ The game has 3 tunable parameters:
   - Number of cells alive
   - Generations
   
-The output will be the grid after guven number of generations based on following rules,
+The output will be the grid after given number of generations based on following rules,
 
      C   N                 new C
      1   0,1             ->  0  // Lonely
