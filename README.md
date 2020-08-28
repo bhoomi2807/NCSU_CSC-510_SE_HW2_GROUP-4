@@ -54,7 +54,7 @@ Analysis of data collected can be found in [RESULT.md](https://github.com/bhoomi
   - Review for the code written. (easily understandable/could be better/not understandable)
   - Review for coding language. (very easy/moderate/hard to code)
 
-### Group 4 Details:
+## Group 4 Details:
 1. [Alisha Shahane](mailto:asshahan@ncsu.edu) (asshahan)<br>
 2. [Shruti Kangle](mailto:sskangle@ncsu.edu) (sskangle)<br>
 3. [Bhoomi Shah](mailto:bshah2@ncsu.edu) (bshah2)<br>
