@@ -11,6 +11,22 @@ This repository is part of CSC 510 Software Engineering HW2 and HW3. It contains
 [SCIRPT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/Script.md) has the instructions to conduct the experiment.<br>
 [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md) has the observations and conclusion (For HW3).
 
+## Game of Life
+A cell is represented by 1 (alive) or 0 (dead).
+The game has 3 tunable parameters:
+  - Grid size
+  - Number of cells alive
+  - Generations
+  
+The output will be the grid after guven number of generations based on following rules,
+
+     C   N                 new C
+     1   0,1             ->  0  // Lonely
+     1   4,5,6,7,8       ->  0  // Overcrowded
+     1   2,3             ->  1  // Lives
+     0   3               ->  1  // It takes three to give birth!
+     0   0,1,2,4,5,6,7,8 ->  0  // Barren
+
 ## Execution Instructions
 1. Online Compiler:<br>
 Copy and paste the code in online compilers like [Repl](https://repl.it/), [JDoodle](https://www.jdoodle.com/), [OnlineGDB](https://www.onlinegdb.com/), etc.
