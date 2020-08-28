@@ -13,7 +13,9 @@ This repository is part of CSC 510 Software Engineering HW2 and HW3. It contains
 
 ## Game of Life
 The game consists of a grid where in each cell value represents if the cell is alive or dead.
+<br>
 1 -> Alive
+<br>
 0 -> Dead
 
 The game has 3 tunable parameters:
