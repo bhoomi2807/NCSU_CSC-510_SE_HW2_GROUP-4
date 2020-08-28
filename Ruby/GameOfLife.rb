@@ -1,4 +1,3 @@
-#This is Ruby File 
 def life(name, size, generation, initial = nil)
   board = newBoard size
   randomSeed board, size, initial
@@ -6,13 +5,13 @@ def life(name, size, generation, initial = nil)
   reason = generation.times do |g|
     new = nextGeneration board, size
     printBoard new, name, g+1
-    break :all_dead if emptyOrNot new, size
-    break :static if board == new
+    break :static if emptyOrNot new, size
+    break :all_dead if board == new
     board = new
   end
 
-  if    reason == :static then puts "Life ended."
-  elsif reason == :all_dead   then puts "Static, no movement."
+  if    reason == :all_dead then puts "Life ended."
+  elsif reason == :static   then puts "Static, no movement."
   else                           puts "Lifetime ended."
   end
   puts
@@ -50,7 +49,7 @@ def fate(board, i, j, n)
       sum += board[ii][jj] if not (ii==i and jj==j)
     end
   end
-  (sum==3 or (sum==2 and board[i][j]==1))?1:0
+  (sum==3 or (sum==2 and board[i][j]==1))?0:1
 end
 
 def emptyOrNot(board, size)
@@ -61,7 +60,7 @@ end
 def printBoard(m, name, generation)
   print "\r" + ("\e[A\e[K"*6)
   print "#{name}, Generation #{generation}\n"
-  m.each {|row| row.each {|val| print "#{val == 0 ? 'o' : '.'} "}; print "\n"}
+  m.each {|row| row.each {|val| print "#{val == 0 ? '.' : 'o'} "}; print "\n"}
   $stdout.flush
   sleep 1
 end
