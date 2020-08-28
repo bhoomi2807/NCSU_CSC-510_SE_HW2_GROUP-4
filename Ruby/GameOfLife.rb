@@ -66,3 +66,5 @@ def printBoard(m, name, generation)
 end
 
 life "random", 5, 10
+#5->size
+#10->generations
