@@ -1,9 +1,8 @@
 ## Methods
 #### Observations from Google Form
-1. Experience in coding.
-2. Familiarity with language.
-3. Quality of written code.
-4. Ease of understanding the language.
+1. Familiarity with language.
+2. Quality of written code.
+3. Ease of understanding the language.
 
 #### Manual Observations
 1. Time taken to find bug.
