@@ -40,4 +40,5 @@ The experiment was conducted with the help of:
 - It was an added advantage that the participants knew the problem statement beforehand. They could figure out the expected output from the given input easily. This may not be as easy for previously unseen problem statements along with completely new programming languages.
 - After conducting this experiment, we realized that a few other parameters contributing to testers' skills such as previous coding experience, or problem abilities could have been measured as well.
 - Although we thought that the 3 languages had different bugs, of the same difficulty level, the participants often thought they were too tough in Julia, which contributed to increased time to find and debug the code.
+- The online compiler we chose for executing the code had a monochrome IDE which was not intuitive for many participants. Also, each language required a different arguments which confused the participants.
 
