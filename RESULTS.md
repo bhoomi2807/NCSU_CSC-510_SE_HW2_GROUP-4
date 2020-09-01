@@ -16,6 +16,15 @@ The experiment was conducted with the help of:
 
 ## Observations
 
+- From the data we observe that most of the participants were hardly familiar with any of the programming languages.
+- They found the quality of code really good and easy to follow through.
+- The languages were easy to understand for a majority of the participants.
+- Out of the 3 languages used for writing the Game of Life, the participants preferred Scala the most, followed by Ruby.
+- The time taken to find the bug was lowest in Scala and Julia was the highest on an average.
+- Scala, followed by Ruby were the languages which took the least time to resolve the bug.
+- Only 3 out of our 10 participants could resolve the bug in Julia.
+
+
 ### Julia
 
 <table border="2"><tr>
@@ -44,19 +53,14 @@ The experiment was conducted with the help of:
 </tr>
 </table>
 
-### Manual Observations
+## Manual Observations
 
 <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/TimeToFindBug.png" width="700">
 
 <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/TimeToResolveBug.png" width="700">
 
-- From the data we observe that most of the participants were hardly familiar with any of the programming languages.
-- They found the quality of code really good and easy to follow through.
-- The languages were easy to understand for a majority of the participants.
-- Out of the 3 languages used for writing the Game of Life, the participants preferred Scala the most, followed by Ruby.
-
-
 ## Conclusion
+- 
 
 
 ## Threats to Validity
