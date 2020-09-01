@@ -22,3 +22,5 @@ Part of HW3.
 
 ## Threats to Validity
 Part of HW3.
+1) Some of the bugs required a deeper understanding of the algorithm and non-trivial inputs. This confused some of the participants.
+2) Julia was relatively new to most of our testers, which made them a little skeptical about using this language in the future.
