@@ -17,26 +17,38 @@ The experiment was conducted with the help of:
 ## Observations
 
 ### Julia
+
 <table border="2"><tr>
-<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Julia.png" width="700"></a> </td?
+<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Julia.png" width="700"></td>
 </tr>
 </table>
 
 ### Scala
+
 <table border="2"><tr>
-<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Scala.png" width="700"></a> </td?
+<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Scala.png" width="700"></td>
 </tr>
 </table>
+
 ### Ruby
+
 <table border="2"><tr>
-<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Ruby.png" width="700"></a> </td?
+<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Ruby.png" width="700"></td>
 </tr>
 </table>
+
 ### Preference of languages
+
 <table border="2"><tr>
-<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Preferred.png" width="700"></a> </td?
+<td> <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Preferred.png" width="700"></td>
 </tr>
 </table>
+
+### Manual Observations
+
+<img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/TimeToFindBug.png" width="700">
+
+<img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/TimeToResolveBug.png" width="700">
 
 - From the data we observe that most of the participants were hardly familiar with any of the programming languages.
 - They found the quality of code really good and easy to follow through.
