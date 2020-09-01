@@ -20,5 +20,5 @@ b. Hard to understand due to hybrid nature of being object-oriented and function
 c. Limited backward compatibility.
 d. Poor IDE support.
 e. Lack of documentation.
-f. Creation of list of list is not possible.
-g. Difficulties in capturing input from user.
+f. Creation of 2 dimensional lists is not possible.
+g. Difficulties in capturing user input.
