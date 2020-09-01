@@ -27,12 +27,17 @@ The experiment was conducted with the help of:
 
 - From the data we observe that most of the participants were hardly familiar with any of the programming languages.
 - They found the quality of code really good and easy to follow through.
-- 
+- The languages were easy to understand for a majority of the participants.
+- Out of the 3 languages used for writing the Game of Life, the participants preferred Scala the most, followed by Ruby.
 
 
 ## Conclusion
 
 
 ## Threats to Validity
-1) Some of the bugs required a deeper understanding of the algorithm and non-trivial inputs. This confused some of the participants.
-2) Julia was relatively new to most of our testers, which made them a little skeptical about using this language in the future.
+- Some of the bugs required a deeper understanding of the algorithm and non-trivial inputs. This confused some of the participants.
+- Julia was relatively new to most of our testers, which made them a little skeptical about using this language in the future.
+- It was an added advantage that the participants knew the problem statement beforehand. They could figure out the expected output from the given input easily. This may not be as easy for previously unseen problem statements along with completely new programming languages.
+- After conducting this experiment, we realized that a few other parameters contributing to testers' skills such as previous coding experience, or problem abilities could have been measured as well.
+- Although we thought that the 3 languages had different bugs, of the same difficulty level, the participants often thought they were too tough in Julia, which contributed to increased time to find and debug the code.
+
