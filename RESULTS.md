@@ -15,12 +15,24 @@ The experiment was conducted with the help of:
 3. Google Sheet: Observations from our side with respect to each participant.
 
 ## Observations
-Part of HW3.
+
+### Julia
+<img  width=700 align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Julia.png"></a>
+### Scala
+<img  width=700 align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Scala.png"></a>
+### Ruby
+<img  width=700 align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Ruby.png"></a> 
+### Preference of languages
+<img  width=700 align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/Preferred.png"></a> 
+
+- From the data we observe that most of the participants were hardly familiar with any of the programming languages.
+- They found the quality of code really good and easy to follow through.
+- 
+
 
 ## Conclusion
-Part of HW3.
+
 
 ## Threats to Validity
-Part of HW3.
 1) Some of the bugs required a deeper understanding of the algorithm and non-trivial inputs. This confused some of the participants.
 2) Julia was relatively new to most of our testers, which made them a little skeptical about using this language in the future.
