@@ -57,7 +57,7 @@ The experiment was conducted with the help of:
 - Out of the 3 languages used for writing the Game of Life, the participants preferred Scala the most, followed by Ruby.
 - The time taken to find the bug was lowest in Scala and Julia was the highest on an average.
 - Scala, followed by Ruby were the languages which took the least time to resolve the bug.
-- Only 3 out of our 10 participants could resolve the bug in Julia.
+- Only 3 out of our 10 participants could resolve the bug present in Julia.
 
 
 ## Conclusion
