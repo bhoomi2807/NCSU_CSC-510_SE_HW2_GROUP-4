@@ -60,8 +60,8 @@ The experiment was conducted with the help of:
 <img align=center src="https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/MISC/TimeToResolveBug.png" width="700">
 
 ## Conclusion
-- 
-
+- Among the 3 languages analyzed, Scala turned out to be the easiest to debug!
+- Julia was found to be less intuitive and most participants were less likely work on Julia in the near future.
 
 ## Threats to Validity
 - Some of the bugs required a deeper understanding of the algorithm and non-trivial inputs. This confused some of the participants.
