@@ -38,7 +38,7 @@ The output will be the grid after given number of generations based on following
 
 ## Observations
 Manual bservations will be noted down in Excel Sheet and participants wold also fill a Google Form.
-Analysis of data collected can be found in [RESULT.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md)
+Analysis of data collected can be found in [RESULTS.md](https://github.com/bhoomi2807/NCSU_CSC-510_SE_HW2_GROUP-4/blob/master/RESULTS.md)
 
 
 ### Things to note down:
@@ -49,7 +49,6 @@ Analysis of data collected can be found in [RESULT.md](https://github.com/bhoomi
   
 ### Questions to ask:
   - Familiarity with language before today.
-  - Familiarity with language after spending 10min.
   - Review for the code written. (easily understandable/could be better/not understandable)
   - Review for coding language. (very easy/moderate/hard to code)
 
